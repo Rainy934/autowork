@@ -1,0 +1,37 @@
+{
+  "promoUrl": "https://your-promo-link.com",
+  "promoDesc": "超值流量卡，全国通用，月租低至9.9元",
+  "tasks": [],
+  "platforms": {
+    "xianyu": {
+      "enabled": true,
+      "cookie": "cookie2=163066d76bec28e198d8ec5821f45a4f; mtop_partitioned_detect=1; _m_h5_tk=5d6efc363fb421594a64f28a1419ce49_1773736665462; _m_h5_tk_enc=54e6fe203ce3de8317ed9c8e386411ec; cna=6eE/IpmoQVYCAQ6ZmQsGGlAi; _samesite_flag_=true; t=df907a562677bb49a720a559ae6323ed; _tb_token_=eb5e9e53ee7d; xlly_s=1; tracknick=1173993169%E9%9B%A8%E5%A4%A9; unb=1604060325; sgcookie=E1000EpHVorMvS1zn%2Fy309tKV9syXBxNEc3KNJJwJ4aBh5l0Q9zUj5WfqEbWTq%2Faw2YHvZCxdz67Wtf9NW6L1uNjAMEh3VlUY%2FcyV19XJPGOTQo%3D; csg=17ea4e08; havana_lgc2_77=eyJoaWQiOjE2MDQwNjAzMjUsInNnIjoiZjYwMDI1YjI1OGI0OTUwYzRkMjM4ZmQxYjM3MDNlM2YiLCJzaXRlIjo3NywidG9rZW4iOiIxUmY0WnRhOVZmNmNKRzFPM2Job3dPUSJ9; _hvn_lgc_=77; havana_lgc_exp=1776320909305; sdkSilent=1773815311487; tfstk=gPgtdnAxpBC9xfYBeNxHidGsDfRnkHcNsAl5o-2GcvHKNbWgcV4iHiHigxqXQP0xpPunjZ2MQrhjErpkEUYo_fzTlLvoNaGMFPPA51_1nywQsrF15In55fz4lpfhl3Y-_AA1rwEblBUQM5sblZZ1OBF0w1abCo6CA7wQhrMbfkaQG5B_Go_XRBF4d-ablxaB9S2QhrajhXTlXwy2c8bxvQum5vKYMZ_jJ5EBxfwB14uQ6leS1XQflMPTX8G_pdEvtirxBl3HWTPtAbHU6x8P7PZxf0askLLTRbonCWHXeieI2VuYqVpR4Rga3YUsvp_TlyF-MumHGgencXuLvVKlgWuiGVruPUW_nDc-kS323eH-1An7VV6O4-goyfGCE8FcfBdd0ir_T4Invhz6-qxg98AhiiS4XCFLEBdd0ir_TWektsjV0ldO."
+    }
+  },
+  "logs": [
+    {
+      "taskId": "manual",
+      "platform": "xianyu",
+      "time": "2026-03-17T06:44:50.837Z",
+      "success": false,
+      "message": "Cookie 已失效，请重新获取",
+      "articlePreview": "最近\"一人公司\"不是火了吗？看新闻说银行都坐不住了，确实啊，现在谁还想坐班啊，都想着轻资产创业。但我发现创业第一步不是注册公司，是解决流量焦虑！😂\n\n之前在公司上班，流量随便用。现在自己干，天天跑客"
+    },
+    {
+      "taskId": "manual",
+      "platform": "xianyu",
+      "time": "2026-03-17T06:42:03.530Z",
+      "success": false,
+      "message": "Cookie 已失效，请重新获取",
+      "articlePreview": "家人们，最近\"一人公司\"真的火出圈了！银行都坐不住开始慌了，但咱打工人/创业狗早就悟了——该省省该花花，把钱花在刀刃上才是正经政绩观（手动狗头）\n\n开个一人公司，啥都要自己扛，房租水电已经够呛了，每个"
+    },
+    {
+      "taskId": "manual",
+      "platform": "xianyu",
+      "time": "2026-03-17T06:38:18.619Z",
+      "success": false,
+      "message": "Cookie 已失效，请重新获取",
+      "articlePreview": "最近\"一人公司\"概念火得不行，银行都坐不住了，但我作为刚辞职单干的自由职业者，只关心怎么省钱！真的，创业第一步不是租办公室，是先把话费降下来。之前每个月话费100+，流量还不够用，出差到外地还得买漫游"
+    }
+  ]
+}
