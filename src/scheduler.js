@@ -2,10 +2,12 @@ const cron = require('node-cron');
 const { getHotTopics } = require('./hotspot');
 const { generateArticle } = require('./writer');
 const XianyuPlatform = require('./platforms/xianyu');
+const ZhihuPlatform = require('./platforms/zhihu');
 const { loadConfig, saveConfig } = require('./config');
 
 const platformMap = {
-  xianyu: new XianyuPlatform()
+  xianyu: new XianyuPlatform(),
+  zhihu:  new ZhihuPlatform()
 };
 
 // 运行中的 cron 任务 map: taskId -> cronTask
